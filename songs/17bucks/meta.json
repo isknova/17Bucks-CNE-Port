@@ -2,8 +2,7 @@
 	"opponentModeAllowed": false,
 	"icon": "pk",
 	"difficulties": [
-		"BUCK",
-		"NORMAL"
+		"BUCK"
 	],
 	"color": "#FFCE66",
 	"name": "17bucks",

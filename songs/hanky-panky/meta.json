@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 140,
+	"difficulties": [
+		"buck"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "",
+	"icon": "sos",
+	"name": "hanky-panky",
+	"color": "#FFFFFF"
+}
