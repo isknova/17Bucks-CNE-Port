@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="50" y="40" icon="girlf" flipX="true" camx="-10" camy="70" holdTime="6.1" scale="1" isPlayer="true" color="#852424">
+	<anim name="danceLeft" anim="gf" fps="24" loop="false" x="0" y="0"/>
+	<anim name="danceRight" anim="two gf" fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFT" anim="left" fps="24" loop="false" x="-6" y="-24"/>
+	<anim name="singDOWN" anim="down" fps="24" loop="false" x="0" y="-74"/>
+	<anim name="singRIGHT" anim="right" fps="24" loop="false" x="0" y="-10"/>
+	<anim name="singUP" anim="up" fps="24" loop="false" x="-90" y="50"/>
+	<anim name="singUPmiss" anim="miss up" fps="24" loop="false" x="-81" y="61"/>
+	<anim name="singLEFTmiss" anim="miss left" fps="24" loop="false" x="-10" y="-29"/>
+	<anim name="singRIGHTmiss" anim="miss right" fps="24" loop="false" x="4" y="-4"/>
+	<anim name="singDOWNmiss" anim="miss down" fps="24" loop="false" x="0" y="-61"/>
+</character>

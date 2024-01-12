@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 150,
+	"difficulties": [
+		"buck"
+	],
+	"needsVoices": true,
+	"parsedColor": -8051676,
+	"icon": "girlf",
+	"name": "jeans",
+	"color": "#852424"
+}

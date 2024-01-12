@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "pk",
+	"difficulties": [
+		"buck",
+		"NORMAL"
+	],
+	"parsedColor": -12698,
+	"color": "#FFCE66",
+	"name": "17bucks",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "17bucks",
+	"beatsPerMesure": 4,
+	"needsVoices": true,
+	"bpm": 150
+}

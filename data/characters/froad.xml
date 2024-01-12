@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="110" y="30" icon="froad" flipX="true" camx="200" camy="260" holdTime="6.1" scale="1.21" sprite="froadd" isPlayer="true" color="#5F2E53">
+	<anim name="singDOWN" anim="down" fps="24" loop="false" x="20.6611570247934" y="-214.04958677686"/>
+	<anim name="singUP" anim="up" fps="24" loop="false" x="35.5371900826446" y="-118.181818181818"/>
+	<anim name="idle" anim="idle" fps="24" loop="false" x="-8.26446280991736" y="-180.165289256198"/>
+	<anim name="singDOWNmiss" anim="MISSdown" fps="24" loop="false" x="19.0082644628099" y="-211.570247933884"/>
+	<anim name="singUPmiss" anim="MISSup" fps="24" loop="false" x="38.0165289256198" y="-117.355371900826"/>
+	<anim name="singLEFT" anim="left" fps="24" loop="false" x="6.61157024793388" y="-170.247933884298"/>
+	<anim name="singRIGHTmiss" anim="MISSright" fps="24" loop="false" x="-18.1818181818182" y="-161.98347107438"/>
+	<anim name="singLEFTmiss" anim="MISSleft" fps="24" loop="false" x="8.26446280991736" y="-171.074380165289"/>
+	<anim name="singRIGHT" anim="right" fps="24" loop="false" x="-23.9669421487603" y="-159.504132231405"/>
+	<anim name="ow" anim="Symbol 13" fps="24" loop="false" x="264.462809917355" y="-109.090909090909"/>
+</character>

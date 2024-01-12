@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grinch.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grinchsos0000" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="grinchsos0001" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="grinchsos0002" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="grinchsos0003" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="grinchsos0004" x="281" y="0" width="281" height="262"/>
+	<SubTexture name="grinchsos0005" x="281" y="0" width="281" height="262"/>
+	<SubTexture name="grinchsos0006" x="281" y="0" width="281" height="262"/>
+	<SubTexture name="grinchsos0007" x="281" y="0" width="281" height="262"/>
+</TextureAtlas>

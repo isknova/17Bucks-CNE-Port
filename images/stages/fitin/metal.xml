@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="metal.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="metalsos0000" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="metalsos0001" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="metalsos0002" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="metalsos0003" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="metalsos0004" x="281" y="0" width="281" height="262"/>
+	<SubTexture name="metalsos0005" x="281" y="0" width="281" height="262"/>
+	<SubTexture name="metalsos0006" x="281" y="0" width="281" height="262"/>
+	<SubTexture name="metalsos0007" x="281" y="0" width="281" height="262"/>
+</TextureAtlas>

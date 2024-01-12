@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="90" icon="boyf" camx="80" y="300" isGF="false" camy="70" color="#4B93B2" flipX="true" isPlayer="true" holdTime="6.1" sprite="boyfrind">
+	<anim x="10" loop="false" y="0" fps="24" anim="IDLE" name="idle"/>
+	<anim x="11" loop="false" y="-8" fps="24" anim="RIGHT" name="singRIGHT"/>
+	<anim x="2" loop="false" y="-6" fps="24" anim="LEFT" name="singLEFT"/>
+	<anim x="-7" loop="false" y="50" fps="24" anim="UP" name="singUP"/>
+	<anim x="10" loop="false" y="-31" fps="24" anim="DOWN" name="singDOWN"/>
+	<anim x="30" loop="false" y="-10" fps="24" anim="misright" name="singRIGHTmiss"/>
+	<anim x="0" loop="false" y="50" fps="24" anim="upmiss" name="singUPmiss"/>
+	<anim x="0" loop="false" y="-3" fps="24" anim="leftmiss" name="singLEFTmiss"/>
+	<anim x="10" loop="false" y="-20" fps="24" anim="downmiss" name="singDOWNmiss"/>
+</character>

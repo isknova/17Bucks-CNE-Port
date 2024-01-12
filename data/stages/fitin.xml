@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="stage" folder="stages/fitin/">
+    <sprite name="bg"               x="0" y="0"   sprite="BG"       scroll="0.9" scale="2.9" />
+    <sprite name="sloth"               x="375" y="450"   sprite="metal"       scroll="0.9"/>
+    <sprite name="wrath"               x="160" y="240"   sprite="rage"       scroll="0.92" scale="1" />
+    <dad x="100" y="20" />
+    <sprite name="greed"               x="-50" y="575"   sprite="grinch"       scroll="1.2" scale="1.2" />
+    <boyfriend x="770" y="40" />
+</stage>

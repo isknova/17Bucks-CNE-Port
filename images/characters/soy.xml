@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="soy.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceLeft0000" x="0" y="0" width="508" height="624"/>
+	<SubTexture name="danceLeft0001" x="0" y="0" width="508" height="624"/>
+	<SubTexture name="danceLeft0002" x="0" y="0" width="508" height="624"/>
+	<SubTexture name="danceLeft0003" x="0" y="0" width="508" height="624"/>
+	<SubTexture name="danceLeft0004" x="508" y="0" width="508" height="624"/>
+	<SubTexture name="danceLeft0005" x="508" y="0" width="508" height="624"/>
+	<SubTexture name="danceLeft0006" x="508" y="0" width="508" height="624"/>
+	<SubTexture name="danceLeft0007" x="508" y="0" width="508" height="624"/>
+	<SubTexture name="danceRight0000" x="1016" y="0" width="508" height="624"/>
+	<SubTexture name="danceRight0001" x="1016" y="0" width="508" height="624"/>
+	<SubTexture name="danceRight0002" x="1016" y="0" width="508" height="624"/>
+	<SubTexture name="danceRight0003" x="1016" y="0" width="508" height="624"/>
+	<SubTexture name="danceRight0004" x="508" y="0" width="508" height="624"/>
+	<SubTexture name="danceRight0005" x="508" y="0" width="508" height="624"/>
+	<SubTexture name="danceRight0006" x="508" y="0" width="508" height="624"/>
+	<SubTexture name="danceRight0007" x="508" y="0" width="508" height="624"/>
+	<SubTexture name="happy0000" x="1524" y="0" width="508" height="624"/>
+	<SubTexture name="happy0001" x="1524" y="0" width="508" height="624"/>
+	<SubTexture name="happy0002" x="1524" y="0" width="508" height="624"/>
+	<SubTexture name="happy0003" x="1524" y="0" width="508" height="624"/>
+	<SubTexture name="happy0004" x="0" y="624" width="508" height="624"/>
+	<SubTexture name="happy0005" x="0" y="624" width="508" height="624"/>
+	<SubTexture name="happy0006" x="0" y="624" width="508" height="624"/>
+	<SubTexture name="happy0007" x="0" y="624" width="508" height="624"/>
+	<SubTexture name="happy0008" x="0" y="624" width="508" height="624"/>
+	<SubTexture name="happy0009" x="0" y="624" width="508" height="624"/>
+	<SubTexture name="happy0010" x="0" y="624" width="508" height="624"/>
+</TextureAtlas>

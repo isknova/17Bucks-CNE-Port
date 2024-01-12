@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="230" icon="cycl" camx="-120" y="140" isGF="false" scale="0.8" camy="80" isPlayer="false" holdTime="999" sprite="cycgf">
+	<anim x="0" loop="false" y="0" fps="24" anim="GF" name="idle"/>
+</character>

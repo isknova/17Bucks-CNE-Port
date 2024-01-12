@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="130" y="120" icon="face" flipX="false" camx="10" camy="0" holdTime="6.1" scale="1">
+	<anim name="danceRight" anim="danceRight" fps="24" loop="false" x="0" y="0"/>
+	<anim name="danceLeft" anim="danceLeft" fps="24" loop="false" x="0" y="0"/>
+	<anim name="cheer" anim="happy" fps="24" loop="false" x="8" y="-11"/>
+</character>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Enterbase.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Enterbase0000" x="5" y="5" width="622" height="40"/>
+	<SubTexture name="Enterbase0001" x="634" y="5" width="622" height="40"/>
+	<SubTexture name="Enterbase0002" x="634" y="5" width="622" height="40"/>
+	<SubTexture name="Enterbase0003" x="1263" y="5" width="622" height="40"/>
+	<SubTexture name="Enterbase0004" x="5" y="52" width="622" height="40"/>
+	<SubTexture name="Enterbase0005" x="634" y="52" width="622" height="40"/>
+	<SubTexture name="Enterbase0006" x="1263" y="52" width="622" height="40"/>
+	<SubTexture name="Enterbase0007" x="5" y="99" width="622" height="40"/>
+	<SubTexture name="Enterbase0008" x="634" y="99" width="622" height="40"/>
+	<SubTexture name="Enterbase0009" x="1263" y="99" width="622" height="40"/>
+	<SubTexture name="Enterbase0010" x="5" y="146" width="622" height="40"/>
+	<SubTexture name="Enterbase0011" x="634" y="146" width="622" height="40"/>
+	<SubTexture name="Enterbase0012" x="1263" y="146" width="622" height="40"/>
+	<SubTexture name="Enterbase0013" x="5" y="193" width="622" height="40"/>
+	<SubTexture name="Enterbase0014" x="634" y="193" width="622" height="40"/>
+	<SubTexture name="Enterbase0015" x="1263" y="193" width="622" height="40"/>
+	<SubTexture name="Enterbase0016" x="5" y="240" width="622" height="40"/>
+	<SubTexture name="Enterbase0017" x="634" y="240" width="622" height="40"/>
+	<SubTexture name="Enterbase0018" x="1263" y="240" width="622" height="40"/>
+	<SubTexture name="Enterbase0019" x="5" y="287" width="622" height="40"/>
+	<SubTexture name="Enterbase0020" x="634" y="287" width="622" height="40"/>
+	<SubTexture name="Enterbase0021" x="1263" y="287" width="622" height="40"/>
+	<SubTexture name="Enterbase0022" x="5" y="334" width="622" height="40"/>
+	<SubTexture name="Enterbase0023" x="634" y="334" width="622" height="40"/>
+	<SubTexture name="Enterbase0024" x="1263" y="334" width="622" height="40"/>
+	<SubTexture name="Enterbase0025" x="5" y="381" width="622" height="40"/>
+	<SubTexture name="Enterbase0026" x="634" y="381" width="622" height="40"/>
+	<SubTexture name="Enterbase0027" x="1263" y="381" width="622" height="40"/>
+	<SubTexture name="Enterbase0028" x="5" y="428" width="622" height="40"/>
+	<SubTexture name="Enterbase0029" x="634" y="428" width="622" height="40"/>
+	<SubTexture name="Enterbase0030" x="5" y="428" width="622" height="40"/>
+	<SubTexture name="Enterbase0031" x="1263" y="381" width="622" height="40"/>
+	<SubTexture name="Enterbase0032" x="634" y="381" width="622" height="40"/>
+	<SubTexture name="Enterbase0033" x="1263" y="428" width="622" height="40"/>
+	<SubTexture name="Enterbase0034" x="5" y="475" width="622" height="40"/>
+	<SubTexture name="Enterbase0035" x="634" y="475" width="622" height="40"/>
+	<SubTexture name="Enterbase0036" x="1263" y="475" width="622" height="40"/>
+	<SubTexture name="Enterbase0037" x="5" y="522" width="622" height="40"/>
+	<SubTexture name="Enterbase0038" x="634" y="522" width="622" height="40"/>
+	<SubTexture name="Enterbase0039" x="1263" y="522" width="622" height="40"/>
+	<SubTexture name="Enterbase0040" x="5" y="569" width="622" height="40"/>
+	<SubTexture name="Enterbase0041" x="634" y="569" width="622" height="40"/>
+	<SubTexture name="Enterbase0042" x="1263" y="569" width="622" height="40"/>
+	<SubTexture name="Enterbase0043" x="5" y="616" width="622" height="40"/>
+	<SubTexture name="Enterbase0044" x="634" y="616" width="622" height="40"/>
+	<SubTexture name="Enterbase0045" x="1263" y="616" width="622" height="40"/>
+	<SubTexture name="Enterbase0046" x="5" y="663" width="622" height="40"/>
+	<SubTexture name="Enterbase0047" x="634" y="663" width="622" height="40"/>
+	<SubTexture name="Enterbase0048" x="1263" y="663" width="622" height="40"/>
+	<SubTexture name="Enterbase0049" x="5" y="710" width="622" height="40"/>
+	<SubTexture name="Enterbase0050" x="634" y="710" width="622" height="40"/>
+	<SubTexture name="Enterbase0051" x="1263" y="710" width="622" height="40"/>
+	<SubTexture name="Enterbase0052" x="5" y="757" width="622" height="40"/>
+	<SubTexture name="Enterbase0053" x="634" y="757" width="622" height="40"/>
+	<SubTexture name="Enterbase0054" x="1263" y="757" width="622" height="40"/>
+	<SubTexture name="Enterbase0055" x="5" y="804" width="622" height="40"/>
+	<SubTexture name="Enterbase0056" x="634" y="804" width="622" height="40"/>
+	<SubTexture name="Enterbase0057" x="634" y="5" width="622" height="40"/>
+	<SubTexture name="Enterbase0058" x="634" y="5" width="622" height="40"/>
+	<SubTexture name="Enterbase0059" x="5" y="5" width="622" height="40"/>
+</TextureAtlas>

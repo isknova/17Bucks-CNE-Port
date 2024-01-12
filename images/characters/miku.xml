@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="miku.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Symbol 290000" x="0" y="0" width="525" height="821"/>
+	<SubTexture name="Symbol 290001" x="525" y="0" width="525" height="821"/>
+	<SubTexture name="Symbol 290002" x="1050" y="0" width="525" height="821"/>
+	<SubTexture name="Symbol 290003" x="1575" y="0" width="525" height="821"/>
+	<SubTexture name="Symbol 290004" x="2100" y="0" width="525" height="821"/>
+	<SubTexture name="Symbol 290005" x="2625" y="0" width="525" height="821"/>
+	<SubTexture name="Symbol 290006" x="3150" y="0" width="525" height="821"/>
+	<SubTexture name="Symbol 290007" x="0" y="821" width="525" height="821"/>
+	<SubTexture name="Symbol 290008" x="525" y="821" width="525" height="821"/>
+	<SubTexture name="Symbol 290009" x="1050" y="821" width="525" height="821"/>
+	<SubTexture name="Symbol 290010" x="1575" y="821" width="525" height="821"/>
+	<SubTexture name="Symbol 290011" x="2100" y="821" width="525" height="821"/>
+	<SubTexture name="Symbol 290012" x="2625" y="821" width="525" height="821"/>
+	<SubTexture name="Symbol 290013" x="3150" y="821" width="525" height="821"/>
+	<SubTexture name="Symbol 290014" x="0" y="1642" width="525" height="821"/>
+	<SubTexture name="Symbol 290015" x="525" y="1642" width="525" height="821"/>
+	<SubTexture name="Symbol 290016" x="1050" y="1642" width="525" height="821"/>
+	<SubTexture name="Symbol 290017" x="1575" y="1642" width="525" height="821"/>
+	<SubTexture name="miku down0000" x="2100" y="1642" width="577" height="710"/>
+	<SubTexture name="miku down0001" x="2677" y="1642" width="577" height="710"/>
+	<SubTexture name="miku down0002" x="3254" y="1642" width="577" height="710"/>
+	<SubTexture name="miku down0003" x="0" y="2463" width="577" height="710"/>
+	<SubTexture name="miku down0004" x="577" y="2463" width="577" height="710"/>
+	<SubTexture name="miku down0005" x="1154" y="2463" width="577" height="710"/>
+	<SubTexture name="miku left0000" x="1731" y="2463" width="641" height="797"/>
+	<SubTexture name="miku left0001" x="2372" y="2463" width="641" height="797"/>
+	<SubTexture name="miku left0002" x="3013" y="2463" width="641" height="797"/>
+	<SubTexture name="miku left0003" x="0" y="3260" width="641" height="797"/>
+	<SubTexture name="miku left0004" x="641" y="3260" width="641" height="797"/>
+	<SubTexture name="miku left0005" x="1282" y="3260" width="641" height="797"/>
+	<SubTexture name="miku right0000" x="1923" y="3260" width="475" height="822"/>
+	<SubTexture name="miku right0001" x="2398" y="3260" width="475" height="822"/>
+	<SubTexture name="miku right0002" x="2873" y="3260" width="475" height="822"/>
+	<SubTexture name="miku right0003" x="3348" y="3260" width="475" height="822"/>
+	<SubTexture name="miku right0004" x="0" y="4082" width="475" height="822"/>
+	<SubTexture name="miku right0005" x="475" y="4082" width="475" height="822"/>
+	<SubTexture name="miku up0000" x="950" y="4082" width="478" height="874"/>
+	<SubTexture name="miku up0001" x="1428" y="4082" width="478" height="874"/>
+	<SubTexture name="miku up0002" x="1906" y="4082" width="478" height="874"/>
+	<SubTexture name="miku up0003" x="2384" y="4082" width="478" height="874"/>
+	<SubTexture name="miku up0004" x="2862" y="4082" width="478" height="874"/>
+	<SubTexture name="miku up0005" x="3340" y="4082" width="478" height="874"/>
+	<SubTexture name="miku up0006" x="0" y="4956" width="478" height="874"/>
+	<SubTexture name="miku up0007" x="478" y="4956" width="478" height="874"/>
+</TextureAtlas>

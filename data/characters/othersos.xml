@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="70" icon="othersos" camx="-20" y="320" isGF="false" scale="1.2" camy="-60" color="#FFFFFF" isPlayer="false" holdTime="6.1" sprite="othersos">
+	<anim x="27.5" loop="false" y="-0.833333333333333" fps="24" anim="left" name="singLEFT"/>
+	<anim x="-35.8333333333333" loop="false" y="-50.8333333333333" fps="24" anim="down" name="singDOWN"/>
+	<anim x="-29.1666666666667" loop="false" y="-2.5" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="36.6666666666667" loop="false" y="34.1666666666667" fps="24" anim="up" name="singUP"/>
+	<anim x="1.66666666666667" loop="false" y="52.5" fps="24" anim="hey" name="hey"/>
+	<anim x="-0.833333333333333" loop="false" y="0.833333333333333" fps="24" anim="boowomp" name="boowomp"/>
+</character>

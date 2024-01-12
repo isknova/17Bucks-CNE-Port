@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="binej.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="binej down0000" x="0" y="0" width="949" height="936"/>
+	<SubTexture name="binej down0001" x="949" y="0" width="949" height="936"/>
+	<SubTexture name="binej down0002" x="1898" y="0" width="949" height="936"/>
+	<SubTexture name="binej down0003" x="2847" y="0" width="949" height="936"/>
+	<SubTexture name="binej down0004" x="3796" y="0" width="949" height="936"/>
+	<SubTexture name="binej down0005" x="4745" y="0" width="949" height="936"/>
+	<SubTexture name="binej down0006" x="5694" y="0" width="949" height="936"/>
+	<SubTexture name="binej idle0000" x="6643" y="0" width="530" height="1086"/>
+	<SubTexture name="binej idle0001" x="7173" y="0" width="530" height="1086"/>
+	<SubTexture name="binej idle0002" x="0" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0003" x="530" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0004" x="1060" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0005" x="1590" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0006" x="2120" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0007" x="2650" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0008" x="3180" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0009" x="3710" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0010" x="4240" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0011" x="4770" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0012" x="5300" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej idle0013" x="5830" y="1086" width="530" height="1086"/>
+	<SubTexture name="binej left0000" x="6360" y="1086" width="923" height="1074"/>
+	<SubTexture name="binej left0001" x="0" y="2172" width="923" height="1074"/>
+	<SubTexture name="binej left0002" x="923" y="2172" width="923" height="1074"/>
+	<SubTexture name="binej left0003" x="1846" y="2172" width="923" height="1074"/>
+	<SubTexture name="binej left0004" x="2769" y="2172" width="923" height="1074"/>
+	<SubTexture name="binej left0005" x="3692" y="2172" width="923" height="1074"/>
+	<SubTexture name="binej left0006" x="4615" y="2172" width="923" height="1074"/>
+	<SubTexture name="binej left0007" x="5538" y="2172" width="923" height="1074"/>
+	<SubTexture name="binej right0000" x="6461" y="2172" width="652" height="1079"/>
+	<SubTexture name="binej right0001" x="7113" y="2172" width="652" height="1079"/>
+	<SubTexture name="binej right0002" x="0" y="3251" width="652" height="1079"/>
+	<SubTexture name="binej right0003" x="652" y="3251" width="652" height="1079"/>
+	<SubTexture name="binej right0004" x="1304" y="3251" width="652" height="1079"/>
+	<SubTexture name="binej right0005" x="1956" y="3251" width="652" height="1079"/>
+	<SubTexture name="binej up0000" x="2608" y="3251" width="876" height="1206"/>
+	<SubTexture name="binej up0001" x="3484" y="3251" width="876" height="1206"/>
+	<SubTexture name="binej up0002" x="4360" y="3251" width="876" height="1206"/>
+	<SubTexture name="binej up0003" x="5236" y="3251" width="876" height="1206"/>
+	<SubTexture name="binej up0004" x="6112" y="3251" width="876" height="1206"/>
+	<SubTexture name="binej up0005" x="6988" y="3251" width="876" height="1206"/>
+	<SubTexture name="binej up0006" x="0" y="4457" width="876" height="1206"/>
+</TextureAtlas>

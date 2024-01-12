@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="zibidi.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="zSymbol 300000" x="0" y="0" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300001" x="563" y="0" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300002" x="1126" y="0" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300003" x="1689" y="0" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300004" x="2252" y="0" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300005" x="2815" y="0" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300006" x="3378" y="0" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300007" x="0" y="1021" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300008" x="563" y="1021" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300009" x="1126" y="1021" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300010" x="1689" y="1021" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300011" x="2252" y="1021" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300012" x="2815" y="1021" width="563" height="1021"/>
+	<SubTexture name="zSymbol 300013" x="3378" y="1021" width="563" height="1021"/>
+	<SubTexture name="zdown0000" x="0" y="2042" width="655" height="847"/>
+	<SubTexture name="zdown0001" x="655" y="2042" width="655" height="847"/>
+	<SubTexture name="zdown0002" x="1310" y="2042" width="655" height="847"/>
+	<SubTexture name="zdown0003" x="1965" y="2042" width="655" height="847"/>
+	<SubTexture name="zdown0004" x="2620" y="2042" width="655" height="847"/>
+	<SubTexture name="zdown0005" x="3275" y="2042" width="655" height="847"/>
+	<SubTexture name="zibid idle0000" x="0" y="2889" width="451" height="524"/>
+	<SubTexture name="zibid idle0001" x="451" y="2889" width="451" height="524"/>
+	<SubTexture name="zibid idle0002" x="902" y="2889" width="451" height="524"/>
+	<SubTexture name="zibid idle0003" x="1353" y="2889" width="451" height="524"/>
+	<SubTexture name="zibid idle0004" x="1804" y="2889" width="451" height="524"/>
+	<SubTexture name="zibid idle0005" x="2255" y="2889" width="451" height="524"/>
+	<SubTexture name="zibid idle0006" x="2706" y="2889" width="451" height="524"/>
+	<SubTexture name="zibid idle0007" x="3157" y="2889" width="451" height="524"/>
+	<SubTexture name="zibid idle0008" x="3608" y="2889" width="451" height="524"/>
+	<SubTexture name="zibid idle0009" x="0" y="3413" width="451" height="524"/>
+	<SubTexture name="zibid idle0010" x="451" y="3413" width="451" height="524"/>
+	<SubTexture name="zibid idle0011" x="902" y="3413" width="451" height="524"/>
+	<SubTexture name="zibid idle0012" x="1353" y="3413" width="451" height="524"/>
+	<SubTexture name="zibid idle0013" x="1804" y="3413" width="451" height="524"/>
+	<SubTexture name="zleft0000" x="2255" y="3413" width="578" height="1009"/>
+	<SubTexture name="zleft0001" x="2833" y="3413" width="578" height="1009"/>
+	<SubTexture name="zleft0002" x="3411" y="3413" width="578" height="1009"/>
+	<SubTexture name="zleft0003" x="0" y="4422" width="578" height="1009"/>
+	<SubTexture name="zleft0004" x="578" y="4422" width="578" height="1009"/>
+	<SubTexture name="zleft0005" x="1156" y="4422" width="578" height="1009"/>
+	<SubTexture name="zright0000" x="1734" y="4422" width="558" height="858"/>
+	<SubTexture name="zright0001" x="2292" y="4422" width="558" height="858"/>
+	<SubTexture name="zright0002" x="2850" y="4422" width="558" height="858"/>
+	<SubTexture name="zright0003" x="3408" y="4422" width="558" height="858"/>
+	<SubTexture name="zright0004" x="0" y="5431" width="558" height="858"/>
+	<SubTexture name="zright0005" x="558" y="5431" width="558" height="858"/>
+	<SubTexture name="zright0006" x="1116" y="5431" width="558" height="858"/>
+	<SubTexture name="zup0000" x="1674" y="5431" width="529" height="1029"/>
+	<SubTexture name="zup0001" x="2203" y="5431" width="529" height="1029"/>
+	<SubTexture name="zup0002" x="2732" y="5431" width="529" height="1029"/>
+	<SubTexture name="zup0003" x="3261" y="5431" width="529" height="1029"/>
+	<SubTexture name="zup0004" x="0" y="6460" width="529" height="1029"/>
+</TextureAtlas>

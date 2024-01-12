@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Shitsos_Assets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="are you serious rn chat0000" x="0" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0001" x="0" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0002" x="0" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0003" x="0" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0004" x="707" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0005" x="707" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0006" x="707" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0007" x="707" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0008" x="1414" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0009" x="1414" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0010" x="1414" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0011" x="1414" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0012" x="2121" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0013" x="2121" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0014" x="2828" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0015" x="2828" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0016" x="2828" y="0" width="707" height="683"/>
+	<SubTexture name="are you serious rn chat0017" x="2828" y="0" width="707" height="683"/>
+	<SubTexture name="shitsos dancedown0000" x="0" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos dancedown0001" x="0" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos dancedown0002" x="707" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos dancedown0003" x="707" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos dancedown0004" x="1414" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos dancedown0005" x="1414" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos danceup0000" x="1414" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos danceup0001" x="2121" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos danceup0002" x="2121" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos danceup0003" x="2828" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos danceup0004" x="2828" y="683" width="707" height="683"/>
+	<SubTexture name="shitsos down0000" x="0" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0001" x="0" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0002" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0003" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0004" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0005" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0006" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0007" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0008" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0009" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0010" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0011" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0012" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0013" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos down0014" x="707" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0000" x="1414" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0001" x="1414" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0002" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0003" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0004" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0005" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0006" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0007" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0008" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0009" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0010" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0011" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0012" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0013" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos left0014" x="2121" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos right0000" x="2828" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos right0001" x="2828" y="1366" width="707" height="683"/>
+	<SubTexture name="shitsos right0002" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0003" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0004" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0005" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0006" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0007" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0008" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0009" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0010" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0011" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0012" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0013" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos right0014" x="0" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0000" x="707" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0001" x="707" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0002" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0003" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0004" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0005" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0006" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0007" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0008" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0009" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0010" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0011" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0012" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0013" x="1414" y="2049" width="707" height="683"/>
+	<SubTexture name="shitsos up0014" x="1414" y="2049" width="707" height="683"/>
+</TextureAtlas>

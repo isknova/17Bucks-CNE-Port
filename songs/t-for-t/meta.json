@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 168,
+	"difficulties": [
+		"buck"
+	],
+	"needsVoices": true,
+	"parsedColor": -16751018,
+	"icon": "nip",
+	"name": "t-for-t",
+	"color": "#006656"
+}

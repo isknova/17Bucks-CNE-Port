@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sam_alt.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="sam alt down0000" x="0" y="0" width="782" height="902"/>
+	<SubTexture name="sam alt down0001" x="782" y="0" width="782" height="902"/>
+	<SubTexture name="sam alt down0002" x="1564" y="0" width="782" height="902"/>
+	<SubTexture name="sam alt down0003" x="2346" y="0" width="782" height="902"/>
+	<SubTexture name="sam alt down0004" x="3128" y="0" width="782" height="902"/>
+	<SubTexture name="sam alt left0000" x="3910" y="0" width="898" height="1056"/>
+	<SubTexture name="sam alt left0001" x="4808" y="0" width="898" height="1056"/>
+	<SubTexture name="sam alt left0002" x="5706" y="0" width="898" height="1056"/>
+	<SubTexture name="sam alt left0003" x="6604" y="0" width="898" height="1056"/>
+	<SubTexture name="sam alt left0004" x="0" y="1056" width="898" height="1056"/>
+	<SubTexture name="sam alt left0005" x="898" y="1056" width="898" height="1056"/>
+	<SubTexture name="sam alt left0006" x="1796" y="1056" width="898" height="1056"/>
+	<SubTexture name="sam alt right0000" x="2694" y="1056" width="854" height="1010"/>
+	<SubTexture name="sam alt right0001" x="3548" y="1056" width="854" height="1010"/>
+	<SubTexture name="sam alt right0002" x="4402" y="1056" width="854" height="1010"/>
+	<SubTexture name="sam alt right0003" x="5256" y="1056" width="854" height="1010"/>
+	<SubTexture name="sam alt right0004" x="6110" y="1056" width="854" height="1010"/>
+	<SubTexture name="sam alt right0005" x="6964" y="1056" width="854" height="1010"/>
+	<SubTexture name="sam alt up0000" x="0" y="2112" width="669" height="1128"/>
+	<SubTexture name="sam alt up0001" x="669" y="2112" width="669" height="1128"/>
+	<SubTexture name="sam alt up0002" x="1338" y="2112" width="669" height="1128"/>
+	<SubTexture name="sam alt up0003" x="2007" y="2112" width="669" height="1128"/>
+	<SubTexture name="sam alt up0004" x="2676" y="2112" width="669" height="1128"/>
+	<SubTexture name="sam alt up0005" x="3345" y="2112" width="669" height="1128"/>
+	<SubTexture name="sam idl0000" x="4014" y="2112" width="687" height="1044"/>
+	<SubTexture name="sam idl0001" x="4701" y="2112" width="687" height="1044"/>
+	<SubTexture name="sam idl0002" x="5388" y="2112" width="687" height="1044"/>
+	<SubTexture name="sam idl0003" x="6075" y="2112" width="687" height="1044"/>
+	<SubTexture name="sam idl0004" x="6762" y="2112" width="687" height="1044"/>
+	<SubTexture name="sam idl0005" x="7449" y="2112" width="687" height="1044"/>
+	<SubTexture name="sam idl0006" x="0" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0007" x="687" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0008" x="1374" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0009" x="2061" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0010" x="2748" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0011" x="3435" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0012" x="4122" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0013" x="4809" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0014" x="5496" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0015" x="6183" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0016" x="6870" y="3240" width="687" height="1044"/>
+	<SubTexture name="sam idl0017" x="0" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0018" x="687" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0019" x="1374" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0020" x="2061" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0021" x="2748" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0022" x="3435" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0023" x="4122" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0024" x="4809" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0025" x="5496" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0026" x="6183" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0027" x="6870" y="4284" width="687" height="1044"/>
+	<SubTexture name="sam idl0028" x="0" y="5328" width="687" height="1044"/>
+</TextureAtlas>

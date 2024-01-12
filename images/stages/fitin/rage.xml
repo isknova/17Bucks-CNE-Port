@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rage.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angrysos0000" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="angrysos0001" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="angrysos0002" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="angrysos0003" x="0" y="0" width="281" height="262"/>
+	<SubTexture name="angrysos0004" x="281" y="0" width="281" height="262"/>
+	<SubTexture name="angrysos0005" x="281" y="0" width="281" height="262"/>
+	<SubTexture name="angrysos0006" x="281" y="0" width="281" height="262"/>
+	<SubTexture name="angrysos0007" x="281" y="0" width="281" height="262"/>
+</TextureAtlas>
