@@ -38,6 +38,8 @@ public var shits:Int = 0;
 public var timeBarBG:FlxSprite;
 public var timeBar:FlxBar;
 public var timeTxt:FlxText; // I forgot why I made these public variables.......
+public var psychIconP1:FlxSprite;
+public var psychIconP2:FlxSprite;
 public var hudTxt:FlxText;
 public var hudTxtTween:FlxTween;
 public var ratingFC:String = "FC";
@@ -167,6 +169,10 @@ function onSongStart() {
     }
 }
 
+function postUpdate(elapsed:Float) {
+    
+}
+
 function update(elapsed:Float) {
     if (inst != null && timeBar != null && timeBar.max != inst.length) {
         timeBar.setRange(0, Math.max(1, inst.length));
@@ -177,6 +183,23 @@ function update(elapsed:Float) {
         var minutes = Std.int(timeRemaining / 60);
         timeTxt.text = minutes + ":" + seconds;
     }
+
+    psychIconP1.scale.set(FlxMath.lerp(psychIconP1.scale.x, 1, 0.15), FlxMath.lerp(psychIconP1.scale.y, 1, 0.15));
+    psychIconP1.updateHitbox();
+    psychIconP2.scale.set(FlxMath.lerp(psychIconP2.scale.x, 1, 0.15), FlxMath.lerp(psychIconP2.scale.y, 1, 0.15));
+    psychIconP2.updateHitbox();
+
+    var iconOffset:Int = 26;
+
+	psychIconP1.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 1, 0)) - iconOffset);
+	psychIconP2.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 1, 0))) - (psychIconP2.width - iconOffset);
+
+    psychIconP1.offset.y = (psychIconP1.height / 15);
+    psychIconP2.offset.y = (psychIconP2.height / 15);
+
+    psychIconP1.animation.curAnim.curFrame = (healthBar.percent < 20) ? 1 : 0;
+	psychIconP2.animation.curAnim.curFrame = (healthBar.percent > 80) ? 1 : 0;
+
     var acc = FlxMath.roundDecimal(Math.max(accuracy, 0) * 100, 2);
     var rating:String = getRating(accuracy);
     if (songScore > 0 || acc > 0 || misses > 0) {
@@ -192,6 +215,14 @@ function update(elapsed:Float) {
     if (memories == 3000 || finalFPS <= FlxG.save.data.Framerate / 2) {
         fpsfunniCounter.color = FlxColor.RED;
     }
+}
+
+function beatHit() {
+    psychIconP1.scale.set(1.2, 1.2);
+    psychIconP1.updateHitbox();
+
+    psychIconP2.scale.set(1.2, 1.2);
+    psychIconP2.updateHitbox();
 }
 
 function onPlayerHit(event) {
@@ -223,25 +254,60 @@ function postCreate() {
     for (i in [missesTxt, accuracyTxt, scoreTxt]) {
         i.visible = false;
     }
+
     if (downscroll) {
         hudTxt.y = healthBarBG.y - 58;
-    } 
-    add(hudTxt);
+    }
+
     healthBar.y = FlxG.height * 0.89;
     healthBarBG.y = healthBar.y - 4;
     iconP1.y = healthBar.y - 75;
     iconP2.y = iconP1.y;
+
+    var icon = "face";
+    if (boyfriend != null) icon = boyfriend.getIcon();
+    psychIconP1 = new FlxSprite();
+    makePsychIcon(psychIconP1, icon, true);
+
+    var icon = "face";
+    if (dad != null) icon = dad.getIcon();
+    psychIconP2 = new FlxSprite();
+    makePsychIcon(psychIconP2, icon, false);
+
+    iconP1.visible = false;
+    iconP2.visible = false;
+
+    add(hudTxt);
+
     if (!downscroll) {
         hudTxt.y = healthBarBG.y + 38;
     }
+
     if (FlxG.save.data.showBar) {
         for (i in [timeTxt, timeBar, timeBarBG]) {
             i.visible = false;
         }
     }
+
     if (FlxG.save.data.showTxt) {
         hudTxt.visible = false;
     }
+}
+
+function makePsychIcon(icon:FlxSprite, char:String, isPlayer:Bool) {
+    var path = Paths.image('icons/' + char);
+
+    icon.loadGraphic(path);
+    icon.loadGraphic(path, true, Math.floor(icon.width / 2), Math.floor(icon.height));
+    icon.updateHitbox();
+
+    icon.animation.add(char, [0, 1], 0, false, isPlayer);
+    icon.animation.play(char);
+
+    icon.antialiasing = true;
+    icon.cameras = [camHUD];
+    icon.y = healthBar.y - (icon.height / 2);
+    add(icon);
 }
 
 function destroy() {

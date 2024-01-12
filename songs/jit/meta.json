@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 156,
+	"difficulties": [
+		"BUCK"
+	],
+	"needsVoices": true,
+	"parsedColor": -16751018,
+	"icon": "cycl",
+	"name": "jit",
+	"color": "#006656"
+}

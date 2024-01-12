@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 126,
+	"difficulties": [
+		"BUCK"
+	],
+	"needsVoices": true,
+	"parsedColor": -16751018,
+	"icon": "john3",
+	"name": "tweak",
+	"color": "#006656"
+}
