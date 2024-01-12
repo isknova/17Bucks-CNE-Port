@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="220" y="79" holdTime="6.1" camx="-180" camy="-30" icon="face" color="#A1A1A1" sprite="bitch4">
+	<anim name="idle" anim="IDLE" fps="24" loop="true" x="7" y="-10"/>
+	<anim name="NOOO" anim="SHOCK" fps="24" loop="false" x="4" y="73"/>
+</character>

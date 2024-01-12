@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 160,
+	"difficulties": [
+		"BUCK"
+	],
+	"needsVoices": true,
+	"icon": "john2",
+	"name": "boulevard",
+	"color": "#FFFF40"
+}

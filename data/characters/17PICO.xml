@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" x="70" y="260" holdTime="5.99999999999999" camx="-570" camy="-60" flipX="true" icon="pic" color="#F8843F" sprite="17pico">
+	<anim name="idle" anim="idle" fps="24" loop="false" x="-3" y="0"/>
+	<anim name="singLEFT" anim="left" fps="24" loop="false" x="-37" y="-6"/>
+	<anim name="singDOWN" anim="down" fps="24" loop="false" x="80" y="-27"/>
+	<anim name="singUP" anim="up" fps="24" loop="false" x="-12" y="54"/>
+	<anim name="singRIGHT" anim="right" fps="24" loop="false" x="-34" y="19"/>
+	<anim name="singLEFTmiss" anim="missleft" fps="24" loop="false" x="68" y="-4"/>
+	<anim name="singDOWNmiss" anim="missdown" fps="24" loop="false" x="85" y="-11"/>
+	<anim name="singUPmiss" anim="missup" fps="24" loop="false" x="-14" y="54"/>
+	<anim name="singRIGHTmiss" anim="missright" fps="24" loop="false" x="-32" y="20"/>
+	<anim name="hey" anim="hey" fps="24" loop="false" x="-18" y="16"/>
+	<anim name="die" anim="die" fps="24" loop="false" x="420" y="80"/>
+</character>

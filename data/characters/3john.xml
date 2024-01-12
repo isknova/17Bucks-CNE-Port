@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-80" holdTime="6.1" camx="20" camy="20" icon="john2" color="#157462" sprite="3john">
+	<anim name="singLEFT" anim="LEFT" fps="24" loop="false" x="133" y="-13"/>
+	<anim name="singDOWN" anim="DOWN" fps="24" loop="false" x="80" y="-65"/>
+	<anim name="singUP" anim="UP" fps="24" loop="false" x="30" y="80"/>
+	<anim name="singRIGHT" anim="RIGHT" fps="24" loop="false" x="-36" y="-28"/>
+	<anim name="miss2" anim="missleft" fps="24" loop="false" x="130" y="-18"/>
+	<anim name="miss1" anim="missright" fps="24" loop="false" x="-40" y="-30"/>
+	<anim name="Hey" anim="HEY" fps="24" loop="false" x="-34" y="-19"/>
+	<anim name="idle" anim="ALT-IDLE" fps="24" loop="false" x="-5" y="0"/>
+	<anim name="punch" anim="punch" fps="24" loop="false" x="-3" y="0"/>
+</character>

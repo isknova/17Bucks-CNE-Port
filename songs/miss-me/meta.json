@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 101,
+	"difficulties": [
+		"BUCK"
+	],
+	"needsVoices": true,
+	"icon": "zib",
+	"name": "miss-me",
+	"color": "#FFFF40"
+}

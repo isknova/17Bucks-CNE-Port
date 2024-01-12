@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 130,
+	"difficulties": [
+		"BUCK"
+	],
+	"needsVoices": true,
+	"icon": "alien",
+	"name": "feeling-b",
+	"color": "#FFFF40"
+}

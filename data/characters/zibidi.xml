@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="-130" holdTime="6.1" icon="zib" color="#2E323F" sprite="zibidi">
+	<anim name="idle" anim="zSymbol 30" fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFT" anim="zleft" fps="24" loop="false" x="110" y="-82"/>
+	<anim name="singRIGHT" anim="zright" fps="24" loop="false" x="-51" y="-182"/>
+	<anim name="singUP" anim="zup" fps="24" loop="false" x="55" y="10"/>
+	<anim name="singDOWN" anim="zdown" fps="24" loop="false" x="40" y="-178"/>
+</character>
