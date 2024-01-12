@@ -1,4 +1,4 @@
-<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<!DOCTYPE codename-engine-character>
 <character x="50" y="40" icon="girlf" flipX="true" camx="-10" camy="70" holdTime="6.1" scale="1" isPlayer="true" color="#852424">
 	<anim name="danceLeft" anim="gf" fps="24" loop="false" x="0" y="0"/>
 	<anim name="danceRight" anim="two gf" fps="24" loop="false" x="0" y="0"/>

@@ -2,7 +2,7 @@
     "params": [
         {
             "name": "Character",
-            "type": " StrumLine",
+            "type": "StrumLine",
             "defaultValue": 0
         },
         {

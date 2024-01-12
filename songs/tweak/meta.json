@@ -8,8 +8,7 @@
 		"BUCK"
 	],
 	"needsVoices": true,
-	"parsedColor": -16751018,
 	"icon": "john3",
 	"name": "tweak",
-	"color": "#006656"
+	"color": "#FFFF40"
 }

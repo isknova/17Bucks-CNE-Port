@@ -1,5 +1,5 @@
-<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
-<character x="110" y="30" icon="froad" flipX="true" camx="200" camy="260" holdTime="6.1" scale="1.21" sprite="froadd" isPlayer="true" color="#5F2E53">
+<!DOCTYPE codename-engine-character>
+<character x="110" y="30" icon="froad" flipX="true" camx="-200" camy="260" holdTime="6.1" scale="1.21" sprite="froadd" isPlayer="true" color="#5F2E53">
 	<anim name="singDOWN" anim="down" fps="24" loop="false" x="20.6611570247934" y="-214.04958677686"/>
 	<anim name="singUP" anim="up" fps="24" loop="false" x="35.5371900826446" y="-118.181818181818"/>
 	<anim name="idle" anim="idle" fps="24" loop="false" x="-8.26446280991736" y="-180.165289256198"/>

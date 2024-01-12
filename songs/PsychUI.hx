@@ -38,6 +38,8 @@ public var shits:Int = 0;
 public var timeBarBG:FlxSprite;
 public var timeBar:FlxBar;
 public var timeTxt:FlxText; // I forgot why I made these public variables.......
+public var psychIconP1Offset = [0, 0];
+public var psychIconP2Offset = [0, 0];
 public var psychIconP1:FlxSprite;
 public var psychIconP2:FlxSprite;
 public var hudTxt:FlxText;
@@ -112,7 +114,7 @@ function create() {
     timeBarBG.alpha = 0;
     timeBarBG.scrollFactor.set();
     timeBarBG.color = FlxColor.BLACK;
-    timeBarBG.loadGraphic(Paths.image("psychTimeBar"));
+    timeBarBG.loadGraphic(Paths.image("game/timeBar"));
 
     timeBar = new FlxBar(timeBarBG.x + 4, timeBarBG.y + 4, FlxBar.FILL_LEFT_TO_RIGHT, Std.int(timeBarBG.width - 8), Std.int(timeBarBG.height - 8), Conductor, 'songPosition', 0, 1);
     timeBar.scrollFactor.set();
@@ -186,16 +188,18 @@ function update(elapsed:Float) {
 
     psychIconP1.scale.set(FlxMath.lerp(psychIconP1.scale.x, 1, 0.15), FlxMath.lerp(psychIconP1.scale.y, 1, 0.15));
     psychIconP1.updateHitbox();
+    psychIconP1.offset.x = psychIconP1Offset[0];
+    psychIconP1.offset.y = psychIconP1Offset[1];
+
     psychIconP2.scale.set(FlxMath.lerp(psychIconP2.scale.x, 1, 0.15), FlxMath.lerp(psychIconP2.scale.y, 1, 0.15));
     psychIconP2.updateHitbox();
+    psychIconP2.offset.x = psychIconP2Offset[0];
+    psychIconP2.offset.y = psychIconP2Offset[1];
 
     var iconOffset:Int = 26;
 
-	psychIconP1.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 1, 0)) - iconOffset);
-	psychIconP2.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 1, 0))) - (psychIconP2.width - iconOffset);
-
-    psychIconP1.offset.y = (psychIconP1.height / 15);
-    psychIconP2.offset.y = (psychIconP2.height / 15);
+	psychIconP1.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 1, 0)) + (150 * psychIconP1.scale.x - 150) / 2 - iconOffset);
+	psychIconP2.x = healthBar.x + (healthBar.width * (FlxMath.remapToRange(healthBar.percent, 0, 100, 1, 0))) - (150 * psychIconP2.scale.x) / 2 - iconOffset * 2;
 
     psychIconP1.animation.curAnim.curFrame = (healthBar.percent < 20) ? 1 : 0;
 	psychIconP2.animation.curAnim.curFrame = (healthBar.percent > 80) ? 1 : 0;
@@ -299,6 +303,9 @@ function makePsychIcon(icon:FlxSprite, char:String, isPlayer:Bool) {
 
     icon.loadGraphic(path);
     icon.loadGraphic(path, true, Math.floor(icon.width / 2), Math.floor(icon.height));
+    var iconOffset = isPlayer == true ? psychIconP1Offset : psychIconP2Offset;
+    iconOffset[0] = (icon.width - 150) / 2;
+    iconOffset[1] = (icon.height - 150) / 2;
     icon.updateHitbox();
 
     icon.animation.add(char, [0, 1], 0, false, isPlayer);
@@ -307,6 +314,7 @@ function makePsychIcon(icon:FlxSprite, char:String, isPlayer:Bool) {
     icon.antialiasing = true;
     icon.cameras = [camHUD];
     icon.y = healthBar.y - (icon.height / 2);
+
     add(icon);
 }
 

@@ -1,2 +1,0 @@
-q
-psychTimeBar.png should be in yourmodname/images (Don't put it anywhere else unless you change the file path in the PsychUI.hx file

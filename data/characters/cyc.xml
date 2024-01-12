@@ -1,4 +1,4 @@
-<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<!DOCTYPE codename-engine-character>
 <character x="90" y="-10" icon="zitz" flipX="false" camx="110" camy="-30" holdTime="6.1" scale="1" sprite="cyyc" isPlayer="true" color="#485374">
 	<anim name="idle" anim="idle" fps="24" loop="false" x="10" y="0"/>
 	<anim name="singUP" anim="up" fps="24" loop="false" x="-50" y="39"/>
