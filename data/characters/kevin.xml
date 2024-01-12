@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character icon="kev" x="-300" y="-160" camx="90" camy="-130" holdTime="6.1" color="#6F62A2">
+	<anim name="idle" anim="kevinidle" fps="24" loop="false" x="0" y="0"/>
+	<anim name="singUP" anim="kevin up" fps="24" loop="false" x="-26" y="103"/>
+	<anim name="singLEFT" anim="kevin left" fps="24" loop="false" x="70"  y="-10"/>
+	<anim name="singRIGHT" anim="kevin right" fps="24" loop="false" x="-96" y="38"/>
+	<anim name="singDOWN" anim="kevin down" fps="24" loop="false" x="0" y="-90"/>
+	<anim name="singUP-alt" anim="alt up" fps="24" loop="false" x="-50" y="190"/>
+	<anim name="singLEFT-alt" anim="alt left" fps="24" loop="false" x="40"  y="0"/>
+	<anim name="singRIGHT-alt" anim="alt right" fps="24" loop="false" x="-80" y="0"/>
+	<anim name="singDOWN-alt" anim="alt down" fps="24" loop="false" x="20" y="-50"/>
+</character>

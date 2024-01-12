@@ -2,7 +2,7 @@
 	"opponentModeAllowed": false,
 	"icon": "pk",
 	"difficulties": [
-		"buck",
+		"BUCK",
 		"NORMAL"
 	],
 	"parsedColor": -12698,

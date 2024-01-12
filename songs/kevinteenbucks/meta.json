@@ -3,13 +3,14 @@
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"beatsPerMesure": 4,
-	"bpm": 168,
+	"bpm": 150,
 	"difficulties": [
 		"BUCK"
 	],
 	"needsVoices": true,
-	"parsedColor": -16751018,
-	"icon": "nip",
-	"name": "t-for-t",
-	"color": "#006656"
+	"parsedColor": -8890201,
+	"displayName": "Kevinteenbucks",
+	"icon": "kev",
+	"name": "kevinteenbucks",
+	"color": "#7858A7"
 }

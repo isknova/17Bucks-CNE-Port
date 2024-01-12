@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character icon="face" x="0" y="0" camx="0" camy="0" holdTime="6.1">
+	<anim name="idle" anim="req" fps="24" loop="false" x="0" y="0"/>
+	<anim name="singUP" anim="uppose" fps="24" loop="false" x="0" y="20"/>
+	<anim name="singLEFT" anim="leftpose" fps="24" loop="false" x="110"  y="10"/>
+	<anim name="singRIGHT" anim="rughpose" fps="24" loop="false" x="0" y="-14"/>
+	<anim name="singDOWN" anim="downpose" fps="24" loop="false" x="-10" y="-60"/>
+	<anim name="drop" anim="drop" fps="24" loop="false" x="184" y="591"/>
+</character>
