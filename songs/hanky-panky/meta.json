@@ -5,11 +5,10 @@
 	"beatsPerMesure": 4,
 	"bpm": 140,
 	"difficulties": [
-		"buck"
+		"BUCK"
 	],
 	"needsVoices": true,
 	"parsedColor": -1,
-	"displayName": "",
 	"icon": "sos",
 	"name": "hanky-panky",
 	"color": "#FFFFFF"
