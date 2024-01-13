@@ -7,7 +7,7 @@ Womp Womp
 - [x] t-for-t
 - [x] feeling-b
 - [x] fitin
-- [ ] hanky-panky
+- [X] hanky-panky
 - [x] kevinteenbucks
 - [x] jit
 - [x] hoagie
