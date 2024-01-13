@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OptionsNorm.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OptionsNorm instance 10000" x="0" y="0" width="636" height="302"/>
+	<SubTexture name="OptionsSelect instance 10000" x="736" y="0" width="1276" height="932"/>
+	<SubTexture name="OptionsSelect instance 10001" x="736" y="0" width="1276" height="932"/>
+	<SubTexture name="OptionsSelect instance 10002" x="736" y="0" width="1276" height="932"/>
+	<SubTexture name="OptionsSelect instance 10003" x="2112" y="0" width="1276" height="932"/>
+	<SubTexture name="OptionsSelect instance 10004" x="2112" y="0" width="1276" height="932"/>
+	<SubTexture name="OptionsSelect instance 10005" x="2112" y="0" width="1276" height="932"/>
+	<SubTexture name="OptionsSelect instance 10006" x="0" y="1032" width="1276" height="932"/>
+	<SubTexture name="OptionsSelect instance 10007" x="0" y="1032" width="1276" height="932"/>
+	<SubTexture name="OptionsSelect instance 10008" x="0" y="1032" width="1276" height="932"/>
+</TextureAtlas>

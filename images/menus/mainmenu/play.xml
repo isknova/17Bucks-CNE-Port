@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="play Norm.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="play norm0000" x="5" y="5" width="589" height="373"/>
+	<SubTexture name="play select0000" x="601" y="5" width="1111" height="758"/>
+	<SubTexture name="play select0001" x="601" y="5" width="1111" height="758"/>
+	<SubTexture name="play select0002" x="601" y="5" width="1111" height="758"/>
+	<SubTexture name="play select0003" x="1719" y="5" width="1111" height="758"/>
+	<SubTexture name="play select0004" x="1719" y="5" width="1111" height="758"/>
+	<SubTexture name="play select0005" x="1719" y="5" width="1111" height="758"/>
+	<SubTexture name="play select0006" x="2837" y="5" width="1111" height="758"/>
+	<SubTexture name="play select0007" x="2837" y="5" width="1111" height="758"/>
+	<SubTexture name="play select0008" x="2837" y="5" width="1111" height="758"/>
+</TextureAtlas>
