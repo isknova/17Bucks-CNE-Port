@@ -87,7 +87,6 @@ function create() {
     hudTxt = new FlxText(0, 685, FlxG.width, "Score: 0 | Misses: 0 | Rating: ?");
     hudTxt.setFormat(Paths.font("vcr.ttf"), 20, FlxColor.WHITE, "center", FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
     hudTxt.borderSize = 1.25;
-    hudTxt.antialiasing = true;
     hudTxt.scrollFactor.set();
     hudTxt.screenCenter(FlxAxes.X);
 
@@ -163,12 +162,12 @@ function update(elapsed:Float) {
         timeTxt.text = minutes + ":" + seconds;
     }
 
-    psychIconP1.scale.set(FlxMath.lerp(psychIconP1.scale.x, 1, 0.15), FlxMath.lerp(psychIconP1.scale.y, 1, 0.15));
+    psychIconP1.scale.set(FlxMath.lerp(psychIconP1.scale.x, 1, 0.08), FlxMath.lerp(psychIconP1.scale.y, 1, 0.08));
     psychIconP1.updateHitbox();
     psychIconP1.offset.x = psychIconP1Offset[0];
     psychIconP1.offset.y = psychIconP1Offset[1];
 
-    psychIconP2.scale.set(FlxMath.lerp(psychIconP2.scale.x, 1, 0.15), FlxMath.lerp(psychIconP2.scale.y, 1, 0.15));
+    psychIconP2.scale.set(FlxMath.lerp(psychIconP2.scale.x, 1, 0.08), FlxMath.lerp(psychIconP2.scale.y, 1, 0.08));
     psychIconP2.updateHitbox();
     psychIconP2.offset.x = psychIconP2Offset[0];
     psychIconP2.offset.y = psychIconP2Offset[1];

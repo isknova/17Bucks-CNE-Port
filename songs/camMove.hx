@@ -1,13 +1,16 @@
+import flixel.FlxCamera;
+import flixel.FlxCameraFollowStyle;
+
 //change this ones//
 var camMovement:Int = 20;
-var velocity:Int = 3;
+var velocity:Int = 0.12;
 
 //leave this ones alone//
 var campoint:FlxPoint;
 var camlockpos:FlxPoint;
 var camlock:Bool = false;
 var camon:Bool = true;
-var speed:Float = 1;
+var speed:Float = 0.04;
 var timer:Float = 0;
 var curTarget:Int;
 
@@ -22,12 +25,12 @@ function postUpdate(elapsed:Float) {
 			case 0:
 				campoint = FlxPoint.get(camFollow.x, camFollow.y);
 				camlock = false;
-				speed = 1;
+				speed = 0.04;
 
 			case 1:
 				campoint = FlxPoint.get(camFollow.x, camFollow.y);
 				camlock = false;
-				speed = 1;
+				speed = 0.04;
 		}
 		curTarget = curCameraTarget;
 	}
@@ -36,16 +39,15 @@ function postUpdate(elapsed:Float) {
 		timer -= elapsed;
 	} else {
 		if (camon) {
-			speed = 1;
+			speed = 0.04;
 			camFollow.setPosition(campoint.x, campoint.y);
 			camlock = false;
+			FlxG.camera.follow(camFollow, FlxCameraFollowStyle.LOCKON, speed);
 		}
 	}
 
 	if (camlock && camon)
 		camFollow.setPosition(camlockpos.x, camlockpos.y);
-
-	FlxG.camera.followLerp = FlxMath.bound(elapsed * 2.4 * speed / (FlxG.updateFramerate / 60), 0, 1);
 }
 
 function onPlayerHit(_) {
@@ -69,6 +71,7 @@ function onPlayerHit(_) {
 			speed = velocity;
 			timer = 1;
 			camlock = true;
+			FlxG.camera.follow(camFollow, FlxCameraFollowStyle.LOCKON, speed);
 		}
 	}
 }
@@ -94,6 +97,7 @@ function onDadHit(_) {
 			speed = velocity;
 			timer = 1;
 			camlock = true;
+			FlxG.camera.follow(camFollow, FlxCameraFollowStyle.LOCKON, speed);
 		}
 	}
 }
