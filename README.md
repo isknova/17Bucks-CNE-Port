@@ -6,13 +6,13 @@ Womp Womp
 - [x] jeans
 - [x] t-for-t
 - [x] feeling-b
-- [x] fitin
+- [ ] fitin
 - [X] hanky-panky
 - [x] kevinteenbucks
 - [x] jit
 - [x] hoagie
 - [x] tweak
-- [ ] Boulevard
+- [X] Boulevard
 - [x] miss-me
 
 ## Ported by
