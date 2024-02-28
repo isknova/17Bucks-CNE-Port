@@ -7,6 +7,6 @@ function create(){
     bg.scrollFactor.set(0.9, 0.9);
     bg.setGraphicSize(Std.int(bg.width * 2.9));
     bg.active = false;
-    insert(members.indexOf(gf), bg);
+    insert(members.indexOf(dad), bg);
     add(bg);
 }
