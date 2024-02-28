@@ -6,7 +6,7 @@ Womp Womp
 - [x] jeans
 - [x] t-for-t
 - [x] feeling-b
-- [ ] fitin
+- [x] fitin
 - [X] hanky-panky
 - [x] kevinteenbucks
 - [x] jit
